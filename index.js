@@ -51,5 +51,5 @@ app.get('/', (req, res) => {
 })
 
 app.listen(port, () => {
-    console.log('done all')
+    console.log('done all');
 })
